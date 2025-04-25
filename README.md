@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Navneet Singh</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on [Library Management System](https://github.com/Juv3nil3/library-management-Springboot)
+- 🔭 I’m currently working on [CodeInsights Reactive](https://github.com/Juv3nil3/CodeInsights-Reactive)
 
-- 🌱 I’m currently learning **Spring Security**
+- 🌱 I’m currently learning **K8s Deployment Reactive Programming in Java**
 
 - 📫 How to reach me **https://www.linkedin.com/in/navneetmui/**
 
