@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Navneet Singh</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate Java Backend Engineer from India</h3>
 
 - 🔭 I’m currently working on [CodeInsights Reactive](https://github.com/Juv3nil3/CodeInsights-Reactive)
 
-- 🌱 I’m currently learning **K8s Deployment Reactive Programming in Java**
+- 🌱 I’m currently learning **Reactive Programming in Java & Microservice Architectures**
 
 - 📫 How to reach me **https://www.linkedin.com/in/navneetmui/**
 
