@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navneet Singh</h1>
-<h3 align="center">A passionate Java Backend Engineer from India</h3>
+<h3 align="center">A passionate Java Backend Engineer</h3>
 
-- 🔭 I’m currently working on [CodeInsights Reactive](https://github.com/Juv3nil3/CodeInsights-Reactive)
+- 🔭 I’m currently working on [DocScale](https://github.com/Juv3nil3/DocScale)
 
 - 🌱 I’m currently learning **Reactive Programming in Java & Microservice Architectures**
 
